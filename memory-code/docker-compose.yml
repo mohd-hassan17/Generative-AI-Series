@@ -1,0 +1,15 @@
+services:
+  qdrant:
+    image: qdrant/qdrant
+    ports:
+      - 6333:6333
+
+# docker compose up -d
+
+  neo4j:
+    image: neo4j:latest
+    environment:
+      - NEO4J_AUTH=neo4j/test
+    ports:
+      - 7474:7474
+      - 7687:7687

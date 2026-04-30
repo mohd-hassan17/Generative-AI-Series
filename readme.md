@@ -1,17 +1,40 @@
+# 🚀 Generative AI Series
 
-A zero-shot prompt is when you give an AI model a task without any examples or demonstrations.
-You only describe what you want, and the model has to figure it out directly from the instruction.
+Welcome to my **Generative AI Series** repository.  
+This repo contains projects, experiments, and learning resources based on modern AI technologies.
 
-✅ Example of Zero-shot Prompt:
+## 📌 Topics Covered
 
-Translate the following English sentence into French: 
-"Where is the nearest train station?"
+- 🤖 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🎙️ AI Voice Agents
+- ✍️ Prompt Engineering
+- 🧠 AI Chatbots
+- ⚡ AI Automation Workflows
+- 🌐 Real-world AI Applications
 
-👉 Here, you didn’t give the model any examples of translations before; you just directly asked it to perform the task.
+## 📂 What's Inside
 
+This repository includes:
 
-For comparison:
+- Beginner to Advanced AI Projects
+- Practical Implementations
+- Source Code & Examples
+- AI Use Cases
+- Learning Notes
 
-One-shot prompt → You give 1 example and then a new input.
+## 🎯 Goal
 
-Few-shot prompt → You give a few examples before the new input.
+To help developers learn and build real-world Generative AI applications faster.
+
+## 🔗 GitHub Repository
+
+[Generative AI Series](https://github.com/mohd-hassan17/Generative-AI-Series)
+
+## 🙌 Connect With Me
+
+If you like this repository, feel free to ⭐ star it and connect with me on LinkedIn.
+
+---
+
+### 🚀 Keep Learning. Keep Building.

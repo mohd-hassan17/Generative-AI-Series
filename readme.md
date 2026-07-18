@@ -20,7 +20,6 @@ In this repository, I share practical projects built using the latest AI tools a
 - Vector Databases
 - Speech-to-Text & Text-to-Speech
 - Node.js / React.js Integrations
-- Python AI Workflows
 
 This repository is continuously updated with new AI projects and experiments.
 
